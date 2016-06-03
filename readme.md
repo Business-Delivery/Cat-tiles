@@ -1,1 +1,1 @@
-[logo]: https://github.com/business-delivery/logo.png "Cat Tiles Logo"
+[logo]: https://raw.githubusercontent.com/Business-Delivery/Cat-tiles/master/logo.png "Cat Tiles Logo"
