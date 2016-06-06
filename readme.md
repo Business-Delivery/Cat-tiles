@@ -6,4 +6,4 @@ With the Cat Tiles code, you can simply enter the item numbers from the BD site 
 ![alt text](https://raw.githubusercontent.com/Business-Delivery/Cat-tiles/master/res/cattiles_preview.gif "Cat Tiles Preview Gif")
 
 ## Credit
-Coded for the BD site by @KevDoy
+Coded by @KevDoy (for Business-Delivery)
