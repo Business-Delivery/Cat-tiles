@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/Business-Delivery/Cat-tiles/master/res/logo.png "Cat Tiles Logo")
-
 # Category Tiles (Cat Tiles)
 ## Purpose
 These are category tiles that replaced the default CMC category tiles which all required a custom graphic to be uploaded and set every time we wanted to change them out.
